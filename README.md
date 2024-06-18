@@ -1,6 +1,6 @@
-# MQSim: A Simulator for Modern NVMe and SATA SSDs
+# MQSim-Enhanced: A Simulator for Modern NVMe and SATA SSDs
 
-MQSim-Enhanced is an enhanced version of the open-source MQSim simulator.
+MQSim-Enhanced is an enhanced version of the open-source MQSim simulator. The original repository is at https://github.com/CMU-SAFARI/MQSim.git
 
 MQSim is a simulator that accurately captures the behavior of both modern multi-queue SSDs and conventional SATA-based SSDs. MQSim faithfully models a number of critical features absent in existing state-of-the-art simulators, including (1) modern multi-queue-based host–interface protocols (e.g., NVMe), (2) the steady-state behavior of SSDs, and (3) the end-to-end latency of I/O requests. MQSim can be run as a standalone tool, or integrated with a full-system simulator.
 
